@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SAPUIExamples/v16
+/SAPUIExamples/.vs/SAPUIExamples/v16
+/SAPUIExamples/bin/Debug
+/SAPUIExamples/obj/Debug
